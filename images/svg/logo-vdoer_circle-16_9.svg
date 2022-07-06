@@ -1,0 +1,129 @@
+<!--
+    =====================================
+    generator=datazen
+    version=1.13.5
+    hash=e26b9e9897c8f922354d98135adcc3dc
+    =====================================
+-->
+
+<svg version="1.0" xmlns="http://www.w3.org/2000/svg"
+     viewBox="0 0 1200 675">
+
+    <!-- background -->
+    <rect x="0" y="0"
+          width="1200" height="675"
+          style="fill:#90a4ae" />
+    <defs>
+      <filter id="shadow">
+        <feDropShadow dx="0" dy="0"
+                      stdDeviation="12.5"
+                      flood-color="#262626" />
+      </filter>
+    </defs>
+
+    <!-- logo background -->
+    <circle cx="600.0" cy="337.5"
+            r="225.0"
+            fill="#607d8b"
+            style="filter:url(#shadow)" />
+
+    <!-- left pins -->
+    <rect x="450" y="262.5"
+          rx="18.75" ry="18.75"
+          width="75.0" height="37.5"
+          fill="#37474f" />
+    <rect x="450" y="318.75"
+          rx="18.75" ry="18.75"
+          width="75.0" height="37.5"
+          fill="#37474f" />
+    <rect x="450" y="375.0"
+          rx="18.75" ry="18.75"
+          width="75.0" height="37.5"
+          fill="#37474f" />
+
+    <!-- right pins -->
+    <rect x="675.0" y="262.5"
+          rx="18.75" ry="18.75"
+          width="75.0" height="37.5"
+          fill="#37474f" />
+    <rect x="675.0" y="318.75"
+          rx="18.75" ry="18.75"
+          width="75.0" height="37.5"
+          fill="#37474f" />
+    <rect x="675.0" y="375.0"
+          rx="18.75" ry="18.75"
+          width="75.0" height="37.5"
+          fill="#37474f" />
+
+    <!-- top pins -->
+    <rect x="525.0" y="187.5"
+          rx="18.75" ry="18.75"
+          width="37.5" height="75.0"
+          fill="#37474f" />
+    <rect x="581.25" y="187.5"
+          rx="18.75" ry="18.75"
+          width="37.5" height="75.0"
+          fill="#37474f" />
+    <rect x="637.5" y="187.5"
+          rx="18.75" ry="18.75"
+          width="37.5" height="75.0"
+          fill="#37474f" />
+
+    <!-- bottom pins -->
+    <rect x="525.0" y="412.5"
+          rx="18.75" ry="18.75"
+          width="37.5" height="75.0"
+          fill="#37474f" />
+    <rect x="581.25" y="412.5"
+          rx="18.75" ry="18.75"
+          width="37.5" height="75.0"
+          fill="#37474f" />
+    <rect x="637.5" y="412.5"
+          rx="18.75" ry="18.75"
+          width="37.5" height="75.0"
+          fill="#37474f" />
+
+    <!-- body -->
+    <rect x="487.5" y="225.0"
+          rx="37.5" ry="37.5"
+          width="225.0" height="225.0"
+          fill="#262626" />
+
+    <!-- symbol -->
+    <line x1="515.625"
+          y1="337.5"
+          x2="557.8125"
+          y2="295.3125"
+          stroke-linecap="round"
+          style="stroke:#eceff1;stroke-width:14.0625" />
+    <line x1="515.625"
+          y1="337.5"
+          x2="557.8125"
+          y2="379.6875"
+          stroke-linecap="round"
+          style="stroke:#eceff1;stroke-width:14.0625" />
+
+    <line x1="684.375"
+          y1="337.5"
+          x2="642.1875"
+          y2="295.3125"
+          stroke-linecap="round"
+          style="stroke:#eceff1;stroke-width:14.0625" />
+    <line x1="684.375"
+          y1="337.5"
+          x2="642.1875"
+          y2="379.6875"
+          stroke-linecap="round"
+          style="stroke:#eceff1;stroke-width:14.0625" />
+
+    <line x1="600.0" y1="337.5"
+          x2="578.90625" y2="390.234375"
+          stroke-linecap="round"
+          style="stroke:#eceff1;stroke-width:14.0625" />
+
+    <line x1="600.0" y1="337.5"
+          x2="621.09375" y2="284.765625"
+          stroke-linecap="round"
+          style="stroke:#eceff1;stroke-width:14.0625" />
+
+</svg>
